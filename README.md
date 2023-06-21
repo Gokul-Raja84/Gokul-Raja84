@@ -1,9 +1,13 @@
 Hey, I'm Gokul ! 
 
-Currently An IT Student at SRM University
+📍Currently An IT Student at SRM University
 
-An Python programmer and learning on Machine Learning - AI ⚡
+🚀 Python Programmer | Machine Learning Enthusiast
 
-Tech fanatic / Hopeless Musicophile 🎧
+🎓 Right now, I'm focusing on expanding my knowledge in the exciting fields of Artificial intelligence - Deep Learning and Data science.
+
+🔍 I'm actively seeking opportunities to contribute to open-source projects and collaborate with fellow developers.
+
+💻 Tech fanatic / Hopeless Musicophile 🎧
 
 To reach me : Mail - gokulraja840@gmail.com
