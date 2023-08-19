@@ -13,3 +13,5 @@ Hey, I'm Gokul !
 💻 Tech fanatic / Hopeless Musicophile 🎧
 
 To reach me : Mail - gokulraja840@gmail.com
+
+  <img align="center" alt="GIF" src="https://github.com/Gokul-Raja84/Gokul-Raja84/blob/main/code.gif?raw=true" width="500" height="300" />
