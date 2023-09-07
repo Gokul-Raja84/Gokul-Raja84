@@ -10,7 +10,7 @@ Hey, I'm Gokul !
 
 ⚡ I have a Never Settle Mindset, so I'm curious mind to explore new possibilities and act on them !
 
-💻 Tech fanatic / Hopeless Musicophile 🎧
+💻 Tech fanatic / Musicophile 🎧
 
 To reach me : Mail - gokulraja840@gmail.com
 
