@@ -14,4 +14,4 @@ Hey, I'm Gokul !
 
 To reach me : Mail - gokulraja840@gmail.com
 
-  <img align="center" alt="GIF" src="https://github.com/Gokul-Raja84/Gokul-Raja84/blob/main/dev%20code.gif?raw=true" width="500" height="300" />
+  <img align="center" alt="GIF" src="https://github.com/Gokul-Raja84/Gokul-Raja84/blob/main/dev%20code.gif?raw=true" width="300" height="300" />
