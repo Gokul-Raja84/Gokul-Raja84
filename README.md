@@ -24,6 +24,7 @@ To reach me : Mail - gokulraja840@gmail.com
 <a href="https://twitter.com/_iamgokulraja_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_iamgokulraja_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gokulraja84" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gokulraja84" height="30" width="40" /></a>
 <a href="https://instagram.com/gokul._raja._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gokul._raja._" height="30" width="40" /></a>
+<a href="https://gokulraja.rocks" target="blank"><img align="center" src="https://raw.githubusercontent.com/Gokul-Raja84/Gokul-Raja84/8990e4db4e8ff49bd54054e9020d0dd340888728/GOKUL%20RAJA%20logo%20svg.svg" alt="gokul._raja._" height="60" width="40" /></a>
 </p>
 
 <h3 align="left">Skills and Tools</h3>
