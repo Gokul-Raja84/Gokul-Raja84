@@ -4,7 +4,7 @@ Hey, I'm Gokul !
 
 🚀 Python Programmer | SQL Developer | Machine Learning enthusiast | JavaScript Dev | capable in AWS 
 
-🎓 Right now, I'm focusing on expanding my knowledge in the exciting fields of Artificial intelligence - Deep Learning and Data Analysis.
+🎓 Right now, I'm focusing on expanding my knowledge in the exciting fields of AI - Deep Learning and Data Analysis.
 
 📈 Currently working on Myself to be Full-Stack Dev !
 
