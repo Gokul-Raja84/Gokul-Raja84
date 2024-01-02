@@ -6,7 +6,7 @@ Hey, I'm Gokul !
 
 🎓 Right now, I'm focusing on expanding my knowledge in the exciting fields of AI - Deep Learning and Data Analysis.
 
-📈 Working on Myself to be Full-Stack Dev !
+📈 Working on Myself to be Full-Stack Dev / Machine Learning Engineer !
 
 🔍 I'm actively seeking opportunities to contribute to open-source projects and collaborate with fellow developers.
 
