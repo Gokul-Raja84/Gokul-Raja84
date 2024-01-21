@@ -2,7 +2,7 @@ Hey, I'm Gokul !
 
 📍Currently An IT Student at SRM University
 
-🚀 Python Programmer | SQL Developer | Machine Learning enthusiast | JavaScript Dev | capable in AWS 
+🚀 Python Programmer | SQL Developer | Machine Learning enthusiast | JavaScript Dev |
 
 🎓 Right now, I'm focusing on expanding my knowledge in the exciting fields of AI - Deep Learning and Data Analysis.
 
