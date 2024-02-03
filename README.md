@@ -1,40 +1,17 @@
-Hey, I'm Gokul ! 
+Hey, I'm Gokul !<br><br>📍Currently An IT Student at SRM University<br><br>🚀 Python Programmer | SQL Developer | Machine Learning enthusiast | JavaScript Dev |<br><br>🎓 Right now, I'm focusing on expanding my knowledge in the exciting fields of AI - Deep Learning and Data Analysis.<br><br>📈 Working on Myself to be Full-Stack Dev / Machine Learning Engineer !<br><br>🔍 I'm actively seeking opportunities to contribute to open-source projects and collaborate with fellow developers.<br><br>⚡ I have a Never Settle Mindset, so I'm curious mind to explore new possibilities and act on them !<br><br>💻 Tech fanatic / Musicophile 🎧<br><br>To reach me : Mail - gokulraja840@gmail.com
 
-📍Currently An IT Student at SRM University
+ <img align="center" alt="GIF" src="https://github.com/Gokul-Raja84/Gokul-Raja84/blob/main/dev%20code.gif?raw=true" width="300" height="300" />
 
-🚀 Python Programmer | SQL Developer | Machine Learning enthusiast | JavaScript Dev |
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gokul._raja._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gokulraja84) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_iamgokulraja_) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
 
-🎓 Right now, I'm focusing on expanding my knowledge in the exciting fields of AI - Deep Learning and Data Analysis.
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)  ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 
-📈 Working on Myself to be Full-Stack Dev / Machine Learning Engineer !
-
-🔍 I'm actively seeking opportunities to contribute to open-source projects and collaborate with fellow developers.
-
-⚡ I have a Never Settle Mindset, so I'm curious mind to explore new possibilities and act on them !
-
-💻 Tech fanatic / Musicophile 🎧
-
-To reach me : Mail - gokulraja840@gmail.com
-
-  <img align="center" alt="GIF" src="https://github.com/Gokul-Raja84/Gokul-Raja84/blob/main/dev%20code.gif?raw=true" width="300" height="300" />
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/_iamgokulraja_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_iamgokulraja_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gokulraja84" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gokulraja84" height="30" width="40" /></a>
-<a href="https://instagram.com/gokul._raja._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gokul._raja._" height="30" width="40" /></a>
-<a href="https://gokulraja.rocks" target="blank"><img align="center" src="https://raw.githubusercontent.com/Gokul-Raja84/Gokul-Raja84/8990e4db4e8ff49bd54054e9020d0dd340888728/GOKUL%20RAJA%20logo%20svg.svg" alt="gokul._raja._" height="60" width="40" /></a>
-</p>
 
-<h3 align="left">Skills and Tools</h3>
-<p align="left">
-  
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a><a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
-  
+ 
 
-<a href="https://app.powerbi.com/home?experience=power-bi" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/sempostma/office365-icons/4ef2ee3dc5705f4ab23bc5fc7f236884d0bc10f3/svg/excel.svg" alt="powerbi" width="40" height="40"/> </a>
-<a href="https://app.powerbi.com/home?experience=power-bi" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/2bf1c982fb24528eee1559a96a25eb534c175cfd/SVG/Desktop.svg" alt="powerbi" width="40" height="40"/> </a>
- <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
- </p>
