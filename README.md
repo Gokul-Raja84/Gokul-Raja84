@@ -8,11 +8,8 @@ Hey, I'm Gokul !<br><br>ğŸ“Currently An IT Student at SRM University<br><br>ğŸš
 <a href="https://linkedin.com/in/gokulraja84" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gokulraja84" height="30" width="40" /></a>
 <a href="https://instagram.com/gokul._raja._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gokul._raja._" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/gokulraja840" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gokulraja840" height="30" width="40" /></a>
- <a href="https:/https://gokul-raja84.github.io/My-Resume/" target="_blank">
-  <img width="40" height="30" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-resume-recruitment-agency-flaticons-lineal-color-flat-icons-3.png" alt="external-resume-recruitment-agency-flaticons-lineal-color-flat-icons-3"/>
-</a>
-
-</p>
+ <a href="https://gokul-raja84.github.io/My-Resume/" target="_blank"><img align="center" width="40" height="30" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-resume-recruitment-agency-flaticons-lineal-color-flat-icons-3.png" alt="external-resume-recruitment-agency-flaticons-lineal-color-flat-icons-3"/>
+</a></p>
 
 
 
