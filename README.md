@@ -8,15 +8,18 @@ Hey, I'm Gokul !<br><br> 🎓 IT Graduate from SRM University<br><br>🚀 Python
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![GithubPages](https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white)
 
 
-### Familiar with :
+### Familiar and Worked on :
 
-<h2 align="left">Connect with Me :</h2>
-<p align="left">
-<a href="https://linkedin.com/in/gokulraja84" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gokulraja84" height="30" width="40" /></a>
-<a href="https://twitter.com/_iamgokulraja_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_iamgokulraja_" height="30" width="40" /></a>
-<a href="https://instagram.com/gokul._raja._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gokul._raja._" height="30" width="40" /></a>
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+
+
+
+### Connect wiht Me : 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gokulraja84)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gokul._raja._) 
 <a href="https://gokul-raja84.github.io/My-Resume/" target="_blank"><img align="center" width="40" height="30" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-resume-recruitment-agency-flaticons-lineal-color-flat-icons-3.png" alt="external-resume-recruitment-agency-flaticons-lineal-color-flat-icons-3"/>
-</a></p>
+</a>
 
 
 ### Random Dev Quote 🧑‍💻
