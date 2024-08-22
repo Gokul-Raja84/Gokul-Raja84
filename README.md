@@ -18,9 +18,8 @@ Hey, I'm Gokul !<br><br> 🎓 IT Graduate from SRM University<br><br>🚀 Python
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gokulraja84)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gokul._raja._) 
-<a href="https://gokul-raja84.github.io/My-Resume/" target="_blank_"><img align="center" width="40" height="30" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-resume-recruitment-agency-flaticons-lineal-color-flat-icons-3.png" alt="external-resume-recruitment-agency-flaticons-lineal-color-flat-icons-3"/>
-</a>
-
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_iamGokulRaja_) 
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://gokulraja.hashnode.dev/)
 
 ### Random Dev Quote 🧑‍💻
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
